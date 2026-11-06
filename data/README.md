@@ -1,0 +1,1 @@
+Catchment-level data are associated with https://zenodo.org/records/17350054. The supplied `Catchments ID.xlsx` contains 547 records and the `IQR1`, `IQR2`, `IQR3` columns required by Figure 1. Verify redistribution rights before public upload.
