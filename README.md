@@ -6,7 +6,7 @@ Xue, P., Spracklen, D., & Holden, J. (2026). *Drivers of runoff sensitivity in t
 
 This repository contains Python workflows for **all six main figures and seven supplementary figures** from the study. The analysis covers **547 catchments in Great Britain**, examining runoff sensitivity and its climatic, land-surface, and catchment controls using observational datasets and generalized additive models (GAMs).
 
-**Execution status:** The author has run the main and supplementary figure workflows successfully in their local Jupyter/Python environment. This does not imply that the repository has been independently tested on a clean installation or that every figure has been checked for pixel-identical correspondence with the published version.
+**Execution status:** The author has run the main and supplementary figure workflows successfully in their local Jupyter/Python environment. 
 
 ## Repository layout
 
