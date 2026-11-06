@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+.DS_Store
+results/*.xlsx
+figures/*.pdf
+# Original private source workbooks are not bundled
+data/ReID.xlsx
+data/stations.xlsx
+# Check upstream geospatial redistribution licences before publishing
+geodata/*.shp
+geodata/*.shx
+geodata/*.dbf
+geodata/*.prj
+geodata/*.cpg
