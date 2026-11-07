@@ -127,7 +127,7 @@ For scripts using `Path(__file__).resolve().parents[1]`, execute the `.py` file 
 
 ## Reproducibility and licensing
 
-The author has successfully executed the figure workflows locally. Reproduction on another computer depends on having the required input files, compatible package versions, and functioning geospatial dependencies. Successful execution alone does not establish independent scientific validation or exact visual identity with the published figures.
+The author has successfully executed the figure workflows locally. Reproduction on another computer depends on having the required input files, compatible package versions, and functioning geospatial dependencies. 
 
 Code licensing and data redistribution are separate matters. Add a `LICENSE` file once a code licence has been selected, and verify the terms of each underlying dataset before distributing it through GitHub.
 
