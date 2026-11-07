@@ -112,7 +112,6 @@ For scripts using `Path(__file__).resolve().parents[1]`, execute the `.py` file 
 - Figures are saved as PNG images under `figures/`.
 - Figure 6 perturbation results are saved as `results/10_deltas.xlsx` and `results/20_deltas.xlsx`.
 - Supplementary Figure 7 generates `results/static_P10_P90_deltas.xlsx`, followed by `figures/supplementary_figure_07.png` and `results/Static_structural_sensitivity_summary.xlsx`.
-- **Supplementary Figure 7 does not generate a PDF.**
 
 ## Methodological notes
 
